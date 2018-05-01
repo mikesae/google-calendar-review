@@ -1,0 +1,4 @@
+.DS_Store
+/lambda/custom/node_modules
+/.idea
+/.ask
